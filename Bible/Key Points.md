@@ -1,0 +1,20 @@
+## Standout Chapters
+- Matthew 5 (Sermon on the Mount)
+
+## The Beatitudes
+>"Blessed are the poor in spirit,
+>for the kingdom of heaven is theirs.
+>Blessed are those who mourn,
+>for they will be comforted.
+>Blessed are the humble,
+>for they will inherit the earth.
+>Blessed are those who hunger and thirst for righteousness,
+>for they will be filled.
+>Blessed are the merciful,
+>for they will be shown mercy.
+>Blessed are the pure in heart,
+>for they will see God.
+>Blessed are the peacemakers,
+>for they will be called sons of God.
+>Blessed are those who are persecuted because of righteousness,
+>for the kingdom of heaven is theirs."

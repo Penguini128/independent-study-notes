@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5a2474e8ae2fa55",
+        "id": "ce2a93f533c8cfed",
         "type": "tabs",
         "children": [
           {
-            "id": "b14151967bea8641",
+            "id": "d5e564bea7f01684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Bible/New Testament/Matthew.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "94f1788122e3668a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b69eb903366f692d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Matthew"
             }
           }
         ]
@@ -185,8 +169,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "b14151967bea8641",
+  "active": "d5e564bea7f01684",
   "lastOpenFiles": [
+    "Bible/Definitions.md",
+    "Bible/Key Points.md",
+    "Bible/New Testament/Matthew.md",
+    "Bible/New Testament",
+    "Bible/New Testament/Matthew",
+    "Bible",
+    "Reading",
     "Welcome.md"
   ]
 }

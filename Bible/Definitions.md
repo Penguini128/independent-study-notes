@@ -1,0 +1,2 @@
+**Righteousness** - Doing what is right in God's sight, characterized by moral and spiritual uprightness, and conformity to divine law.
+> Human righteousness, according to Scripture, is the state of being in right relationship with God. This is not achieved through human effort or adherence to the law alone but is granted by God through faith.
