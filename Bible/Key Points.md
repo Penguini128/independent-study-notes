@@ -1,6 +1,3 @@
-## Standout Chapters
-- Matthew 5 (Sermon on the Mount)
-
 ## The Beatitudes
 >"Blessed are the poor in spirit,
 >for the kingdom of heaven is theirs.
